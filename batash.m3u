@@ -24,8 +24,7 @@ https://nkafmbewiff.gpcdn.net/tile_4/master.m3u8
 https://nkafmbewiff.gpcdn.net/tile_3/master.m3u8
 #EXTINF:-1 tvg-name="R TV" tvg-logo="https://i.postimg.cc/8kmxMkrr/20250529-101852.png" group-title="🌍AKASH🌍",R TV
 https://j6nfugukcl.gpcdn.net/tile_6/master.m3u8
-
-#EXTINF:-1 group-title="🌍AKASH🌍",Zee CINEMA HD
+#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/nhDsSWxB/20250529-133753.png" group-title="🌍AKASH🌍",Zee Cinema HD
 https://j6nfugukcl.gpcdn.net/tile_5/master.m3u8
 
 #EXTINF:-1 group-title="🌍AKASH🌍",HUM MASALA
