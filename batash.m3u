@@ -1,13 +1,18 @@
-Ekattor TV 
+#EXTM3U
 
+
+
+
+
+
+
+
+
+#EXTINF:-1,Ekattor TV 
 https://nkafmbewiff.gpcdn.net/tile_1/master.m3u8
-
-BTV HD 
-
+#EXTINF:-1,BTV HD 
 https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
-
-
-Channel I HD
+#EXTINF:-1,Channel I HD
 
 https://nkafmbewiff.gpcdn.net/tile_5/master.m3u8
 
