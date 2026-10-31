@@ -12,7 +12,8 @@
 https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
 #EXTINF:-1 tvg-name="Ekattor HD" tvg-logo="https://i.postimg.cc/D0xCDZqj/20250529-071258.png" group-title="🌍AKASH🌍",Ekattor HD
 https://nkafmbewiff.gpcdn.net/tile_1/master.m3u8
-#EXTINF:-1 tvg-name="Channel 1 HD" tvg-logo="https://i.postimg.cc/Zqgx8hm1/20260430-184013.png" group-title="🌍AKASH🌍",Channel 1 HD
+
+#EXTINF:-1 tvg-name="Channel i" tvg-logo="https://i.postimg.cc/J47vqwbY/20250529-101717.png" group-title="🌍AKASH🌍",Channel i
 https://nkafmbewiff.gpcdn.net/tile_5/master.m3u8
 #EXTINF:-1 tvg-name="Deepto" tvg-logo="https://i.postimg.cc/9XPHbts0/20250529-103607.png" group-title="🌍AKASH🌍",Deepto
 https://nkafmbewiff.gpcdn.net/tile_6/master.m3u8
@@ -33,7 +34,8 @@ https://j6nfugukcl.gpcdn.net/tile_1/master.m3u8
 #EXTINF:-1 group-title="🌍AKASH🌍",HUM SITAREY
 https://j6nfugukcl.gpcdn.net/tile_2/master.m3u8
 
-#EXTINF:-1 group-title="🌍AKASH🌍",HUM TV EUROPE
+
+#EXTINF:-1 tvg-name="Hum TV" tvg-logo="https://i.postimg.cc/RFXqn515/20250529-132912.png" group-title="🌍AKASH🌍",Hum TV
 https://j6nfugukcl.gpcdn.net/tile_3/master.m3u8
 
 
@@ -212,10 +214,6 @@ http://103.135.253.32:8080/Jalsha_movies-HD/index.m3u8
 http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8
 #EXTINF:-1 tvg-name="Colors Bangla Cinema" tvg-logo="https://i.postimg.cc/13pfykGD/20250602-220936.png" group-title="🌍AKASH🌍",Colors Bangla Cinema
 http://103.135.253.32:8080/COLORS-BANGLA-CINEMA/index.m3u8
-#EXTINF:-1 tvg-name="Sananda TV" tvg-logo="https://i.postimg.cc/xTSTTdVJ/20250529-111933.png" group-title="🌍AKASH🌍",Sananda TV
-https://live.sanandatelevision.in/sananda/index.m3u8
-#EXTINF:-1 tvg-name="Bangla +" tvg-logo="https://i.postimg.cc/P5XXYFxd/20250529-111735.png" group-title="🌍AKASH🌍",Bangla +
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-name="Colors" tvg-logo="https://i.postimg.cc/pdy3k1qZ/20251202-090150.png" group-title="🌍AKASH🌍",Colors
 http://103.135.253.32:8080/Color-HD/index.m3u8
 #EXTINF:-1 tvg-name="Colors Cineplex" tvg-logo="https://i.postimg.cc/HLvX9R1x/colors-cineplex-hd.png" group-title="🌍AKASH🌍",Colors Cineplex
@@ -288,8 +286,6 @@ http://103.135.253.32:8080/DISCOVERY/index.m3u8
 http://103.135.253.32:8080/NATGEO-HD/index.m3u8
 #EXTINF:-1 tvg-name="Love Natural 4k" tvg-logo="https://i.postimg.cc/XYG6H09y/20260913-093002.png" group-title="🌍AKASH🌍",Love Natural 4k
 http://27.124.71.27/Love_Nature/index.m3u8
-#EXTINF:-1 tvg-name="Bangladesh vs West Indies" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17929999181020x576.jpg" group-title="🌍AKASH🌍",Bangladesh vs West Indies
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://i.postimg.cc/VL5yTtwr/20250707-141739.png" group-title="🌍AKASH🌍",T Sports HD
 https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 #EXTINF:-1 tvg-name="A Sports HD" tvg-logo="https://i.postimg.cc/ZqbZdnHq/20251002-225834.png" group-title="🌍AKASH🌍",A Sports HD
@@ -298,16 +294,10 @@ https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
 http://103.135.253.32:8080/WILLOW-SPORTS/index.m3u8
 #EXTINF:-1 tvg-name="Ten Cricket" tvg-logo="https://i.postimg.cc/fWV00yP8/20250529-123315.png" group-title="🌍AKASH🌍",Ten Cricket
 https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/index.m3u8
-#EXTINF:-1 tvg-name="Euro Sports HD" tvg-logo="https://i.postimg.cc/K89SfFWN/20251208-221926.png" group-title="🌍AKASH🌍",Euro Sports HD
-https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
 #EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="https://i.postimg.cc/N0sYHFDj/20251002-230032.png" group-title="🌍AKASH🌍",Star Sports 1
 http://103.135.253.32:8080/STAR-SPORTS-1-HD/index.m3u8
 #EXTINF:-1 tvg-name="Star Sports 2" tvg-logo="https://i.postimg.cc/yNvbVTHy/20250702-032050.png" group-title="🌍AKASH🌍",Star Sports 2
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
-#EXTINF:-1 tvg-name="Star Sports SL 1" tvg-logo="https://i.postimg.cc/50ykjF9d/20250702-032238.png" group-title="🌍AKASH🌍",Star Sports SL 1
-http://103.114.11.37:8081/Star-select-1/index.m3u8?token=sboxcast
-#EXTINF:-1 tvg-name="Star Sports SL 2" tvg-logo="https://i.postimg.cc/DzvFX06y/20251002-225947.png" group-title="🌍AKASH🌍",Star Sports SL 2
-http://103.114.11.37:8081/Star-select-2/index.m3u8?token=sboxcast
 #EXTINF:-1 tvg-name="Sony Ten 1" tvg-logo="https://i.postimg.cc/cH2Cc7zX/20250529-122631.png" group-title="🌍AKASH🌍",Sony Ten 1
 #EXTVLCOPT:http-referrer=https://techandeat.online
 https://techandeat.online/sliv/stream.m3u8?id=1000009276
@@ -320,3 +310,12 @@ https://techandeat.online/sliv/stream.m3u8?id=1000009278
 #EXTINF:-1 tvg-name="Sony Ten 5" tvg-logo="https://i.postimg.cc/kMLRN93q/20250529-123147.png" group-title="🌍AKASH🌍",Sony Ten 5
 #EXTVLCOPT:http-referrer=https://techandeat.online
 https://techandeat.online/sliv/stream.m3u8?id=1000009275
+
+
+
+
+
+
+
+
+
